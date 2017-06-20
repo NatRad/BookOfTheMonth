@@ -1,0 +1,46 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+   	 <head>
+    	<title>Book Of The Month</title>
+        <link rel="stylesheet" type="text/css" href="BOM-Styling">.
+    </head>
+    <body>
+
+   		<header>
+   		
+	        <h1>Book Of The Month</h1>	
+
+	        <h2>Your Vote Counts</h2><br>	
+	        <p>Welcome to the book of the month club. Join now to discover new literary talent, and cast your vote on the most inspiring fiction today.</p>
+
+	        <ol>
+	            <li>Create an account</li>
+	            <li>Review the reading list</li>
+	            <li>Upvote your favourites</li>
+	        </ol>
+
+	       
+	    </header>
+
+
+	<h3>Book 1</h3>
+		<h4> The Poisonwood Bible</h4>
+			<a href="http://imgur.com/hy59K2U"><img src="http://i.imgur.com/hy59K2U.jpg" title="The Kite Runner" /></a>
+				<p>Goodreads blurb: The Poisonwood Bible is a story told by the wife and four daughters of Nathan Price, a fierce, evangelical Baptist who takes his family and mission to the Belgian Congo in 1959.</p>
+					<button type="button">Upvote!</button>
+	<h3>Book 2</h3>
+		<h4>Shantaram</h4>
+			<a href="http://imgur.com/tGIVtDo"><img src="http://i.imgur.com/tGIVtDo.jpg" title="Shantaram" /></a>
+				<p>Goodreads blurb: Shantaram is narrated by Lin, an escaped convict with a false passport who flees maximum security prison in Australia for the teeming streets of a city where he can disappear.</p>
+					<button type="button">Upvote!</button>
+	<h3>Book 3</h3>
+		<h4>The Kite Runner</h4>
+			<a href="http://imgur.com/Xpm1kb0"><img src="http://i.imgur.com/Xpm1kb0.jpg" title="Poisonwood Bible" /></a>
+				<p>Goodreads blub: Amir is the son of a wealthy Kabul merchant, a member of the ruling caste of Pashtuns. Hassan, his servant and constant companion, is a Hazara, a despised and impoverished caste.</p>
+					<button type="button">Upvote!</button>
+	    </body>
+	</html>
