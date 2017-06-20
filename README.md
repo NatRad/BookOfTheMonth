@@ -22,7 +22,7 @@ HOW TO STRUCTURE:
 - ID for each section
 - Class for books (float them!)
 
-
+STYLING NOTES:
 
 
 Main body copy alignment - centre
