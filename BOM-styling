@@ -45,6 +45,8 @@ h3 {
 	font-size: 25px;
 	color: grey;
 }
- 
 
-
+div.one {
+    height: 60px;
+    width: 10px;
+    }
